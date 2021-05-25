@@ -1,0 +1,2 @@
+(self.webpackChunklucien=self.webpackChunklucien||[]).push([[678],{7704:function(e,t,l){"use strict";l.r(t);var n=l(7294),u=l(5444);t.default=function(){return n.createElement("main",null,n.createElement("title",null,"Home Page"),n.createElement("h1",null,"Welcome to the homepage of Lucien Huber"),n.createElement(u.rU,{to:"/about"},"About"),n.createElement("p",null,"_.._.."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-79c829a5c1b71e46fcc1.js.map

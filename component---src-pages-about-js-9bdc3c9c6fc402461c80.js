@@ -1,0 +1,2 @@
+(self.webpackChunklucien=self.webpackChunklucien||[]).push([[682],{5518:function(e,t,n){"use strict";n.r(t);var l=n(7294),u=n(5444);t.default=function(){return l.createElement("main",null,l.createElement("title",null,"About Me"),l.createElement("h1",null,"About Me"),l.createElement(u.rU,{to:"/"},"Back to Home"),l.createElement("p",null,"I am a physics student at eth zurich"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-9bdc3c9c6fc402461c80.js.map
